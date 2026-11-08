@@ -3,29 +3,23 @@
   <channel>
     <title>RoboDust</title>
     <item>
-      <title>Version 0.7</title>
-      <pubDate>Tue, 03 Nov 2026 11:33:48 +0000</pubDate>
-      <sparkle:version>0.7</sparkle:version>
-      <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+      <title>Version 0.8</title>
+      <pubDate>Sun, 08 Nov 2026 02:37:46 +0000</pubDate>
+      <sparkle:version>0.8</sparkle:version>
+      <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<h2>You have a cat now</h2>
-<p>Switch on <b>I have a cat</b> before you start, and a cat turns up for the clean. It's a different cat each time, in a different mood, so it's worth cleaning again just to see who shows up.</p>
+      <description><![CDATA[<h2>Two new cats, and your forgotten installers</h2>
+<p>If you've switched on <b>I have a cat</b>, two new moods can turn up now.</p>
 <ul>
-<li><b>The Supervisor</b> sits nearby and watches the robot work. It helps about as much as you'd expect.</li>
-<li><b>The Loaf</b> falls asleep right in the robot's way. The robot bumps it twice, gives up, and goes around.</li>
-<li><b>The Rider</b> climbs on and gets driven around, purring. The robot sounds heavier with it on board, because it is.</li>
-<li><b>The Swatter</b> picks a fight. Fur flies. The robot is not ready for this.</li>
+<li><b>The Saboteur</b> crouches next to a file the robot is heading for, waits, and swipes it out of the way at the last second. Then it looks at the robot like nothing happened. The file still gets cleaned up in the end. The robot just has to go back for it.</li>
+<li><b>The Coward</b> takes one look at the robot and bolts. It hides under one of your windows, or just off the edge of the screen, and peeks out when the robot is far enough away. Move the window and it'll find somewhere else.</li>
 </ul>
-<p>You can pick the cat up, too. It will complain. Try dropping it on the robot and see what it does, because they don't all react the same way.</p>
-<p>The cat is only for show. It can get in the robot's way, but it never changes what happens to your files. The meows are a real cat called Elix, recorded by Joseph Sardin.</p>
-<h3>Also new</h3>
-<ul>
-<li>When a clean finishes, the panel shows just the result, so its buttons no longer end up off the bottom of your screen.</li>
-<li>After your first finished clean, I ask once for a star or a coffee. It's one small card, and you'll never see it again.</li>
-</ul>
-<p>Thanks for downloading this silly thing. It's been a lot more fun than I expected.</p>
+<p>That makes six cats. I still don't know which one is my favourite.</p>
+<h3>Disk images get ejected</h3>
+<p>That installer you opened last month is probably still mounted on your desktop. Trash and Delete now eject read-only disk images at the very end, along with everything else. They're listed on the final screen, so you can untick any you want to keep, and Undo mounts them again. Anything writable or in use is left alone. Thanks to santahate for the idea on GitHub.</p>
+<p>RoboDust also won't move or delete a disk image file while its disk is still mounted, which it could do before.</p>
 <p>Raufan</p>]]></description>
-      <enclosure url="https://robodust.muhraufan.com/releases/RoboDust-0.7.dmg" type="application/octet-stream" sparkle:edSignature="IA+eg6PCXrjBs5r92e9hKRK/rZmE09O0OlinVoWpFr9EcTc3ZKzm+ywN9KyLRnCUBTQ/jAhKUfiLJTd7LicTAQ==" length="4643399" />
+      <enclosure url="https://robodust.muhraufan.com/releases/RoboDust-0.8.dmg" type="application/octet-stream" sparkle:edSignature="QovxSG7KDyOWx6LqehCasyBGeIPDnMYkMyaILmjpf3T/pQAeuRPf97lMXxKkHouUfcEh5vs1Vs/zDhBvQSZ1CQ==" length="4696074" />
     </item>
   </channel>
 </rss>
